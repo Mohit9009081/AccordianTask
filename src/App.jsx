@@ -54,4 +54,4 @@ const handletoggle = (index) => {
   )
 }
 
-export default App
+export default App;
